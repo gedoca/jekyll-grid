@@ -6,7 +6,7 @@ permalink: /about/
 
 
 
-## Set up instructions
+## Set up intrucciones
 
 Fork this Jekyll-Grid on Github: [https://github.com/femmebot/jekyll-grid](https://github.com/femmebot/jekyll-grid)
 
