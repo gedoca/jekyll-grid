@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Mollis Offendit In Mea
-desc: Ex bonorum propriae ius, has id case habeo legimus, decore honestatis est ut.
-proj-url: https://github.com/femmebot/jekyll-grid
+title: La Educación Prohibida
+desc: Desarrollo de herramientas de financiamiento colectivo, resolución colaborativa de problemáticas en la producción y distribución del film.
+proj-url: http://www.educacionprohibida.com
 proj-num: 04
 ---
 
