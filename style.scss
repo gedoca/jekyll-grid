@@ -884,13 +884,7 @@ img {
   }
 }
 
-.site-avatar {
-    float: left;
-    width: 69px;
-    height: 69px;
-    margin-right: 10px;
-    margin-bottom: 10px;
-}
+
 
 @media screen and (max-width: 640px)
 .site-avatar {
@@ -900,6 +894,14 @@ img {
 }
 .site-avatar img {
   border-radius: 0px;
+}
+
+.site-avatar {
+    float: left;
+    width: 69px;
+    height: 69px;
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
 
 .site-info {
