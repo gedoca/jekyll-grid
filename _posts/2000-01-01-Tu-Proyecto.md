@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tu Proyecto
+title: Proyecto C
 desc: Contanos sobre tu colectivo y sus desafíos para construir autonomía.
 proj-url: 
 proj-num: 01
