@@ -878,6 +878,7 @@ img {
   padding: 20px 0 0;
   border-bottom: 1px solid #ccc;
 }
+
 @media screen and (max-width: 640px) {
   .masthead {
     text-align: center;
@@ -886,7 +887,7 @@ img {
 
 
 
-@media screen and (max-width: 640px)
+@media screen and (max-width: 640px)  {
 .site-avatar {
     float: left;
     display: block;
