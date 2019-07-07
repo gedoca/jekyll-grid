@@ -12,13 +12,10 @@ permalink: /institucional/
 ## Comisión Directiva
 La siguiente comisión entró en vigencia en Abril de 2019.
 
-**Presidente**
-
-German Campos
-
-
+**Presidente**  
+German Campos  
+  
 **Vicepresidente**
-
 Mabel Lucia Oddone
 
 
