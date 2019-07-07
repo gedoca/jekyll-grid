@@ -15,37 +15,23 @@ La siguiente comisión entró en vigencia en Abril de 2019.
 **Presidente**  
 German Campos  
   
-**Vicepresidente**
-Mabel Lucia Oddone
-
-
-**Secretario**
-
-Maciel Mirta Gladys
-
-
-**Tesorero**
-
-Nestor Campos
-
-
-**Vocales**
-
-María Thompson
-
-María Laura Erhart
-
-Constanza Caceres Monie
-
-Cintia Paz
-
-
-**Revisores de Cuentas**
-
-Milton Kalbermatter
-
-Inés Diaz
-
-Lucía Barbieri
-
-Ignacio Luongo
+**Vicepresidente**  
+Mabel Lucia Oddone  
+  
+**Secretario**  
+Maciel Mirta Gladys  
+  
+**Tesorero**  
+Nestor Campos  
+  
+**Vocales**  
+María Thompson  
+María Laura Erhart  
+Constanza Caceres Monie  
+Cintia Paz  
+  
+**Revisores de Cuentas**  
+Milton Kalbermatter  
+Inés Diaz  
+Lucía Barbieri  
+Ignacio Luongo  
