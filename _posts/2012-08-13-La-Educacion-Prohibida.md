@@ -3,7 +3,7 @@ layout: post
 title: La Educación Prohibida
 desc: Desarrollo de herramientas de financiamiento colectivo, resolución colaborativa de problemáticas en la producción y distribución del film.
 proj-url: http://www.educacionprohibida.com
-proj-num: 04
+proj-num: 01
 year: 2012
 ---
 
